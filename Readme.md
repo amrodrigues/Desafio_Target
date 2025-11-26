@@ -67,5 +67,5 @@ Este desafio calcula a multa e os juros incidentes sobre um valor original que e
 
 Se houver alguma dúvida ou necessidade de aprofundamento sobre a lógica implementada, sinta-se à vontade para entrar em contato.
 
-* **[Seu Nome]**
-* **[Seu Email]**
+* **Anna Maria Gomes Bittencourt Rodrigues**
+* **amrodrigues1307@gmail.com**
